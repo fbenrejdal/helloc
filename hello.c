@@ -1,5 +1,5 @@
 #include <stdio.h>
-int VERSION=3 ;
+int VERSION=4 ;
 void main ()
 {
 	printf (" version %d\n", VERSION) ;
